@@ -75,7 +75,6 @@ penguins-classification/
 │   └── ...
 │
 ├── requirements.txt
-├── LICENSE
 ├── README.md
 └── .gitignore
 ```
@@ -84,7 +83,7 @@ penguins-classification/
 
 # 📊 Dataset
 
-The project uses the **Palmer Penguins Dataset**, a well-known alternative to the Iris dataset for classification tasks.
+The project uses the **penguins_classification** dataset.
 
 Each penguin belongs to one of three species:
 
@@ -306,12 +305,6 @@ This project demonstrates practical implementation of:
 
 ---
 
-# 📄 License
-
-This project is released under the **MIT License**.
-
----
-
 # 👤 Author
 
 **Parsa Riazi**
@@ -320,5 +313,3 @@ GitHub:
 https://github.com/parsariazi
 
 ---
-
-## ⭐ If you found this project useful, consider giving it a star!
